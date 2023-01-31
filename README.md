@@ -17,7 +17,9 @@
 <h3 align="left">🌐Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/piyush-kumar-singh-6234141ba" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="piyush-kumar-singh-6234141ba" height="30" width="100" /></a>
+  <a href="https://piyush2205.github.io/" target="blank"><img align="center" src="https://camo.githubusercontent.com/0d163383b09382b45d9d8233431fb40719b82261959d00163bba48f934571365/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d79253230506f7274666f6c696f2532302545322538362539322d677261792e7376673f636f6c6f72413d36353542453126636f6c6f72423d344634344436267374796c653d666f722d7468652d6261646765" height="30" width="100" /></a>
 </p>
+
 
 
 # 💻 Tech Stack I have worked with:
