@@ -12,7 +12,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **AWS**
 - 💬 Ask me about **HTML, CSS, JS,React,Chakra-UI**
 - 📫 How to reach me **pk.rv.668@gmail.com**
 <h3 align="left">🌐Connect with me:</h3>
