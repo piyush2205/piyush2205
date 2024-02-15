@@ -1,0 +1,109 @@
+nav{
+    border-bottom: 2px solid black;
+    height: 8vh;
+    background-color: #dadbd8;
+    width: 100vw;
+}
+@font-face {
+    font-family:acumin pro ;
+    src: url(../Font/Acumin-RPro.otf);
+}
+.hero-section-h1-intro{
+
+    letter-spacing: 5px;
+}
+p{
+    font-family: acumin pro;
+    font-size: 19px;
+    letter-spacing: 0.3px;
+}
+.company-name-a-hero-section{
+  letter-spacing: 0px;
+ 
+}
+
+.company-name-a-hero-section:hover{
+    
+    background-color: #000;
+    letter-spacing: 10px;
+    color: white;
+    padding: 10px 5px;
+    text-align: center;
+}
+strong{
+    font-family: acumin pro;
+    font-size: 19px;
+    font-weight: 700;
+}
+.Main-Contanier-Wrapper{
+    margin: auto;
+    /* border: 1px solid red; */
+    height: 8vh;
+    width: 76vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.InnerWrapper{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.Social-Nav-Icon-Wrapper a {
+    /* border: 1px  solid red; */
+    margin-left: 20px;
+}
+
+header{
+
+}
+.hero-section-div-title{
+    /* border: 1px solid red; */
+    display: inline-block
+    
+}
+
+.hero-section-hr-1{
+ border: 0.1px solid hsl(0, 0%, 0%)
+}
+.main-hero-section{
+    /* border: 1px solid red; */
+    height: auto;
+    width: 76vw;
+    margin: auto;
+    margin-top: 20vh;
+}
+
+.hero-section-div1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: -10px;
+}
+
+
+.hero-section-div2{
+    padding: 40px 0px;
+}
+
+hr{
+    border: 1px solid black;
+    margin-top: 10px 0px;
+}
+
+.hero-section-hr{
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+a{
+    font-weight: 600;
+    color: #000;
+    font-size: 16px;
+}
+.logo{
+    font-size: 19px;
+    font-weight: 600;
+    color: #000;
+    letter-spacing: 1px;
+
+}

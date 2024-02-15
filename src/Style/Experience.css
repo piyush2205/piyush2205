@@ -1,0 +1,41 @@
+#Experince{
+    background-color: #E0E0DB;
+    
+}
+
+.Experience-div{
+    display: flex;
+    gap: 20px;
+    margin: auto;
+    /* border: 1px solid green; */
+    align-items: center;
+    justify-content: space-between 
+ 
+}
+
+.Experince-div-2-img-div{
+    /* border: 1px solid red; */
+   
+}
+.Experince-div-2{
+  
+    /* border: 1px solid red; */
+   padding: 10px 0px;
+    align-items: center;
+    
+
+}
+.Experince-div-wrapper{
+    padding: 20vh 0px;
+margin: auto;
+/* border: 1px solid red; */
+height: auto;
+width: 76vw;
+/* display: flex; */
+align-items: center;
+justify-content: space-between;
+}
+
+.Experince-div-2-dis{
+    margin-top: 50px;
+}

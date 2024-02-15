@@ -1,0 +1,40 @@
+.About{
+   
+    height: auto;
+    width: 76vw;
+    margin: auto;
+    margin-top: 100px;
+}
+.about-div{
+    /* border: 1px solid red; */
+    text-align: justify;
+}
+.P-about{
+    font-size: 27px !important;
+  
+}
+
+.about-div-wrapper{
+       margin:100px 0px ;
+}
+.TechStack , .ToolStack{
+    width: 76vw;
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(4,243px);
+    grid-template-rows: repeat(1,143px);
+    gap: 63px;
+}
+.techstack-div ,.toolstack-div{
+       padding: 20px;
+        margin: auto;
+        height: 100px;
+        width: 200px;
+        border: 1px solid black;
+}
+.techstack-div :hover{
+    zoom: 1.1;
+}
+.toolstack-div :hover{
+    zoom: 1.1;
+}

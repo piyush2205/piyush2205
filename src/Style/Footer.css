@@ -1,0 +1,29 @@
+.Footer{
+    height: 135px;
+}
+.footer-div-wrapper{
+    display: flex;
+    width: 76vw;
+    height: 135px;
+     /* border: 1px solid red; */
+    margin: auto;
+    justify-content: space-between;
+}
+.Footer-div{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    width: 60vw;
+    /* border: 1px solid green; */
+    align-items: center;
+    justify-content: space-between;
+   height: auto;
+}
+
+.Footer-credit-div{
+ /* border: 1PX solid RED; */
+ margin: auto;
+}
+.Footer-div a {
+        font-size: 19px;
+        /* border: 1px solid red; */
+    }

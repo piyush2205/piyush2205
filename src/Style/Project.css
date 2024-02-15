@@ -1,0 +1,54 @@
+.Projects{
+padding: 20vh 0px;
+margin: auto;
+/* border: 1px solid red; */
+height: auto;
+width: 76vw;
+}
+
+.project-div-1{
+    /* border: 1px solid red; */
+    padding: 20px 0px;
+}
+.project-dis-div-2{
+    /* border: 1px solid red; */
+   
+    padding: 20px 0px;
+}
+.project-img{
+    height: 300px;
+    width: 575px;
+    object-fit: contain;
+    mix-blend-mode: multiply;
+}
+.project-div-wrapper{
+     /* border: 1px solid red; */
+    display: flex;
+    height: 300px;
+    width: 1160px;
+    gap: 10px;
+}
+button{
+    background-color: transparent;
+    width: 200px;
+    height: 60px;
+    cursor: pointer;
+;
+}
+button:hover{
+    background-color: rgba(0, 0, 0, 0.077);
+
+    cursor: pointer;
+;
+}
+
+
+.github{
+    mix-blend-mode: multiply;
+    height: 25px;
+    width: 25px;
+}
+
+.Demo:hover{
+    cursor: pointer;
+}
